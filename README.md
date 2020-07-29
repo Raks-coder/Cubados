@@ -12,6 +12,6 @@
 
 Enjoy the game and leave a constructive feedback. :)
 
-### The game is currently open source , however I request the users not to copy paste the files and potray the game as their own work. Please make use of the fork option available on github.
+### The game is currently open source , however I request the users not to copy paste the files and portray the game as their own work. Please make use of the fork option available on github.
 
 Thank you and have a nice day !!
